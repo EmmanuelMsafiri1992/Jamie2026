@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ZAKR Wild Game</string>
+    <string name="title_activity_main">ZAKR Wild Game</string>
+    <string name="package_name">com.zakr.wildgame</string>
+    <string name="custom_url_scheme">com.zakr.wildgame</string>
+</resources>

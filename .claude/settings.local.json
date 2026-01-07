@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(npm install)",
+      "Bash(npm cache clean:*)",
+      "Bash(npm install:*)",
+      "Bash(rm:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run lint)",
+      "Bash(code:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npm run:*)",
+      "Bash(npx vite:*)",
+      "Bash(npx eslint:*)",
+      "mcp__ide__getDiagnostics",
+      "Read(//c/laragon/jamie/**)",
+      "Bash(npx cap:*)",
+      "Bash(./gradlew:*)",
+      "Bash(ls:*)",
+      "Bash(where android)",
+      "Bash(echo $ANDROID_HOME)",
+      "Read(//c/Users/**)",
+      "Read(//c/**)",
+      "Bash(echo $USERNAME)",
+      "Bash(echo:*)",
+      "Bash(keytool:*)",
+      "Bash(aapt dump badging:*)",
+      "Bash(unzip:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
