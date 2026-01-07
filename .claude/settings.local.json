@@ -27,7 +27,8 @@
       "Bash(echo:*)",
       "Bash(keytool:*)",
       "Bash(aapt dump badging:*)",
-      "Bash(unzip:*)"
+      "Bash(unzip:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
