@@ -1,9 +1,8 @@
 // Service Worker for automatic app updates
 const CACHE_NAME = 'zakr-app-v' + Date.now();
 const urlsToCache = [
-  '/',
-  '/src/main.tsx',
-  '/src/index.css'
+  './',
+  './index.html'
 ];
 
 self.addEventListener('install', (event) => {
